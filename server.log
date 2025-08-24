@@ -1,0 +1,314 @@
+nohup: ignoring input
+24.17.111.73 - - [24/Aug/2025 05:17:28] "GET / HTTP/1.1" 304 -
+24.17.111.73 - - [24/Aug/2025 05:17:28] "GET /elmo.gif HTTP/1.1" 304 -
+174.224.205.36 - - [24/Aug/2025 05:19:45] "GET / HTTP/1.1" 200 -
+174.224.205.36 - - [24/Aug/2025 05:19:45] "GET /elmo.gif HTTP/1.1" 200 -
+174.224.205.36 - - [24/Aug/2025 05:19:46] "GET /smize.png HTTP/1.1" 200 -
+91.224.92.17 - - [24/Aug/2025 05:23:12] "GET / HTTP/1.1" 200 -
+52.12.172.68 - - [24/Aug/2025 05:27:44] "GET / HTTP/1.1" 200 -
+167.94.138.184 - - [24/Aug/2025 05:29:15] "GET / HTTP/1.1" 200 -
+167.94.138.184 - - [24/Aug/2025 05:29:15] "GET /smize.png HTTP/1.1" 200 -
+167.94.138.184 - - [24/Aug/2025 05:29:15] code 404, message File not found
+167.94.138.184 - - [24/Aug/2025 05:29:15] "GET /favicon.ico HTTP/1.1" 404 -
+167.94.138.184 - - [24/Aug/2025 05:29:17] code 505, message Invalid HTTP version (2.0)
+167.94.138.184 - - [24/Aug/2025 05:29:17] "PRI * HTTP/2.0" 505 -
+167.94.138.184 - - [24/Aug/2025 05:29:21] code 404, message File not found
+167.94.138.184 - - [24/Aug/2025 05:29:21] "GET /favicon.ico HTTP/1.1" 404 -
+167.94.138.184 - - [24/Aug/2025 05:29:21] code 505, message Invalid HTTP version (2.0)
+167.94.138.184 - - [24/Aug/2025 05:29:21] "PRI * HTTP/2.0" 505 -
+167.94.138.184 - - [24/Aug/2025 05:29:24] code 400, message Bad request version ('À\\x14À')
+167.94.138.184 - - [24/Aug/2025 05:29:24] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x035\x83éî&oDê7\x14|\x8a³\x17rÕµ\x8d\x04~³~ùÁ\x93\x1e1\x8b\x00\x04\x8f\x09 Ûé\x19\x95\x8c2ìÀ\x00j%~\x7f\x9càhÄF§\x1e¨r\x88\x95\x19Ø9#é(\x19\x9a\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+167.94.138.184 - - [24/Aug/2025 05:29:24] code 404, message File not found
+167.94.138.184 - - [24/Aug/2025 05:29:24] "GET /wiki HTTP/1.1" 404 -
+24.17.111.73 - - [24/Aug/2025 05:33:04] "GET / HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 05:33:05] "GET /tato.jpeg HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 05:33:37] "GET /tato_history.txt HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 05:33:37] code 404, message File not found
+24.17.111.73 - - [24/Aug/2025 05:33:37] "GET /favicon.ico HTTP/1.1" 404 -
+24.17.111.73 - - [24/Aug/2025 05:37:59] "GET / HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 05:38:06] code 404, message File not found
+24.17.111.73 - - [24/Aug/2025 05:38:06] "GET /tato_history HTTP/1.1" 404 -
+24.17.111.73 - - [24/Aug/2025 05:38:11] "GET /tato_history.html HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 05:44:05] "GET / HTTP/1.1" 200 -
+172.238.6.197 - - [24/Aug/2025 05:44:09] "GET / HTTP/1.1" 200 -
+172.238.6.197 - - [24/Aug/2025 05:44:10] "GET / HTTP/1.1" 200 -
+172.238.6.197 - - [24/Aug/2025 05:44:10] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:10] "GET /wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:11] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:11] "GET /xmlrpc.php?rsd HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:11] "GET / HTTP/1.1" 200 -
+172.238.6.197 - - [24/Aug/2025 05:44:11] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:11] "GET /blog/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:12] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:12] "GET /web/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:12] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:12] "GET /wordpress/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:13] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:13] "GET /website/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:13] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:13] "GET /wp/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:13] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:13] "GET /news/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:14] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:14] "GET /2020/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:14] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:14] "GET /2019/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:14] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:14] "GET /shop/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:15] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:15] "GET /wp1/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:15] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:15] "GET /test/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:16] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:16] "GET /wp2/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:16] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:16] "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:16] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:16] "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+172.238.6.197 - - [24/Aug/2025 05:44:17] code 404, message File not found
+172.238.6.197 - - [24/Aug/2025 05:44:17] "GET /sito/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+91.224.92.14 - - [24/Aug/2025 05:48:57] "GET / HTTP/1.1" 200 -
+147.185.132.48 - - [24/Aug/2025 06:03:58] code 400, message Bad request version ('À\\x13À')
+147.185.132.48 - - [24/Aug/2025 06:03:58] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03;@\x8cß\x92\x1cö J Äv\x14\x16ÑwÁÇ£\x97\x09,Vmd`!ÀËØ§: \x14¦\x88ª6»m\x18\x03¨ELR\x8c×Mù\x01c×^îõ\x93\x87\x8f?®50\x98\x04\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" 400 -
+147.185.132.48 - - [24/Aug/2025 06:03:58] code 400, message Bad request version ('À(À$À\\x14À')
+147.185.132.48 - - [24/Aug/2025 06:03:58] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x83\x85å,Ì\x94ËrGQÃûz\x86\x0d\x14D\x9cç£s~Õ\x1esã{/§'\x17Á\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" 400 -
+87.121.84.191 - - [24/Aug/2025 06:04:03] "GET / HTTP/1.1" 200 -
+34.34.144.227 - - [24/Aug/2025 06:19:06] "GET / HTTP/1.1" 200 -
+43.173.1.57 - - [24/Aug/2025 06:28:10] "GET / HTTP/1.1" 200 -
+93.152.220.232 - - [24/Aug/2025 06:34:03] "GET / HTTP/1.1" 200 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /wp-includes/ID3/license.txt HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /feed/ HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /xmlrpc.php?rsd HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /blog/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /web/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /wordpress/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /wp/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /2020/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /2019/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /2021/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:04] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:04] "GET /shop/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:05] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:05] "GET /wp1/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:05] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:05] "GET /test/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:05] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:05] "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+93.152.220.232 - - [24/Aug/2025 06:34:05] code 404, message File not found
+93.152.220.232 - - [24/Aug/2025 06:34:05] "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1" 404 -
+91.224.92.17 - - [24/Aug/2025 06:51:21] "GET / HTTP/1.1" 200 -
+204.76.203.219 - - [24/Aug/2025 06:53:26] "GET / HTTP/1.1" 200 -
+107.175.141.10 - - [24/Aug/2025 06:55:23] code 501, message Unsupported method ('POST')
+107.175.141.10 - - [24/Aug/2025 06:55:23] "POST /boaform/admin/formLogin HTTP/1.1" 501 -
+107.175.141.10 - - [24/Aug/2025 06:58:25] code 501, message Unsupported method ('POST')
+107.175.141.10 - - [24/Aug/2025 06:58:25] "POST /boaform/admin/formLogin HTTP/1.1" 501 -
+196.251.114.43 - - [24/Aug/2025 07:35:27] "GET /.git/HEAD HTTP/1.1" 200 -
+3.137.73.221 - - [24/Aug/2025 08:00:56] "GET / HTTP/1.1" 200 -
+3.137.73.221 - - [24/Aug/2025 08:05:54] code 400, message Bad request version ('À\\x14À')
+3.137.73.221 - - [24/Aug/2025 08:05:54] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ßÃ\x9bÊ¦\x1bÛt¼\x1b§\x09Û\x88w^?WN \x1dìj\x90±Ù\x0dcÑö|\x13\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+3.137.73.221 - - [24/Aug/2025 08:08:58] code 400, message Bad request syntax ('SSH-2.0-Go')
+3.137.73.221 - - [24/Aug/2025 08:08:58] "SSH-2.0-Go" 400 -
+3.137.73.221 - - [24/Aug/2025 08:11:34] code 400, message Bad request version ('À\\x14À')
+3.137.73.221 - - [24/Aug/2025 08:11:34] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x1c\x00ùI\x84H*«·¹B0³\x11·1ÅÓO¹\x0c¸Vv2Ó?\x03ô«Qä\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+104.23.221.6 - - [24/Aug/2025 08:12:53] code 404, message File not found
+104.23.221.6 - - [24/Aug/2025 08:12:53] "GET /wp-admin/setup-config.php HTTP/1.1" 404 -
+104.23.221.95 - - [24/Aug/2025 08:14:18] code 404, message File not found
+104.23.221.95 - - [24/Aug/2025 08:14:18] "GET /wordpress/wp-admin/setup-config.php HTTP/1.1" 404 -
+122.51.104.231 - - [24/Aug/2025 08:15:06] "GET / HTTP/1.1" 200 -
+91.224.92.14 - - [24/Aug/2025 08:16:56] "GET / HTTP/1.1" 200 -
+125.43.41.3 - - [24/Aug/2025 08:31:32] code 501, message Unsupported method ('POST')
+125.43.41.3 - - [24/Aug/2025 08:31:32] "POST /GponForm/diag_Form?images/ HTTP/1.1" 501 -
+78.153.140.203 - - [24/Aug/2025 08:49:33] code 400, message Bad HTTP/0.9 request type ('\\x16\\x03\\x01\\x00¬\\x01\\x00\\x00¨\\x03\\x03\\x99Ñ\\x88%I\\x9bÒ«s\\x91\\x96\\x12U\\x997Ó\\x83Ãâ')
+78.153.140.203 - - [24/Aug/2025 08:49:33] "\x16\x03\x01\x00¬\x01\x00\x00¨\x03\x03\x99Ñ\x88%I\x9bÒ«s\x91\x96\x12U\x997Ó\x83Ãâ\x1e5áÐ*uÅ>X\x96U÷Û\x00\x008À,À" 400 -
+87.121.84.191 - - [24/Aug/2025 08:49:59] "GET / HTTP/1.1" 200 -
+45.135.193.253 - - [24/Aug/2025 08:51:08] "GET / HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('167.160.161.163', 61114)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.11/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.11/http/server.py", line 667, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 432, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 400, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+193.46.255.83 - - [24/Aug/2025 08:53:42] "GET / HTTP/1.1" 200 -
+196.251.84.253 - - [24/Aug/2025 08:54:47] "GET / HTTP/1.0" 200 -
+204.76.203.219 - - [24/Aug/2025 09:34:17] "GET / HTTP/1.1" 200 -
+43.167.157.80 - - [24/Aug/2025 09:56:07] "GET / HTTP/1.1" 200 -
+91.224.92.17 - - [24/Aug/2025 09:59:18] "GET / HTTP/1.1" 200 -
+35.172.212.40 - - [24/Aug/2025 10:24:46] "GET / HTTP/1.1" 200 -
+44.220.188.26 - - [24/Aug/2025 10:28:19] "GET / HTTP/1.1" 200 -
+44.220.188.26 - - [24/Aug/2025 10:28:20] "GET /tato.jpeg HTTP/1.1" 200 -
+20.65.194.103 - - [24/Aug/2025 10:45:03] "GET / HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 10:50:30] "GET / HTTP/1.1" 200 -
+91.224.92.14 - - [24/Aug/2025 10:56:35] "GET / HTTP/1.1" 200 -
+77.90.185.47 - - [24/Aug/2025 11:03:32] code 404, message File not found
+77.90.185.47 - - [24/Aug/2025 11:03:32] "GET /.env.prod HTTP/1.1" 404 -
+196.251.84.253 - - [24/Aug/2025 11:04:12] "GET / HTTP/1.0" 200 -
+87.121.84.191 - - [24/Aug/2025 11:19:04] "GET / HTTP/1.1" 200 -
+91.224.92.14 - - [24/Aug/2025 11:38:21] "GET / HTTP/1.1" 200 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 400, message Bad request version ('À\\x14À')
+144.126.219.113 - - [24/Aug/2025 11:47:07] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x0d÷\x9eW¾:\x86\x98¶\x89³J\x8bf\x02\x99z\x1f\x8cÖ0\x00\x98\x09+Ñ\x16«\x9d0\\ý\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 400, message Bad request version ('À\\x14À')
+144.126.219.113 - - [24/Aug/2025 11:47:07] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x02[@\x09$>·\x8c`öw8í]¤|0\x0dPx\x9eÒô)\x9f\x03^Kê.\x1a/\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" 400 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET / HTTP/1.1" 200 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /form.html HTTP/1.1" 404 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /upl.php HTTP/1.1" 404 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /t4 HTTP/1.1" 404 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /geoip/ HTTP/1.1" 404 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /favicon.ico HTTP/1.1" 404 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /1.php HTTP/1.1" 404 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /systembc/password.php HTTP/1.1" 404 -
+144.126.219.113 - - [24/Aug/2025 11:47:07] code 404, message File not found
+144.126.219.113 - - [24/Aug/2025 11:47:07] "GET /password.php HTTP/1.1" 404 -
+204.76.203.219 - - [24/Aug/2025 11:54:42] "GET / HTTP/1.1" 200 -
+170.106.160.90 - - [24/Aug/2025 12:25:57] "GET / HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 12:52:09] "GET / HTTP/1.1" 200 -
+162.216.149.143 - - [24/Aug/2025 13:11:28] code 404, message File not found
+162.216.149.143 - - [24/Aug/2025 13:11:28] "GET /.well-known/security.txt HTTP/1.1" 404 -
+206.168.34.125 - - [24/Aug/2025 13:32:21] "GET / HTTP/1.1" 200 -
+206.168.34.125 - - [24/Aug/2025 13:32:23] "GET /tato.jpeg HTTP/1.1" 200 -
+206.168.34.125 - - [24/Aug/2025 13:32:26] code 404, message File not found
+206.168.34.125 - - [24/Aug/2025 13:32:26] "GET /favicon.ico HTTP/1.1" 404 -
+206.168.34.125 - - [24/Aug/2025 13:32:28] code 505, message Invalid HTTP version (2.0)
+206.168.34.125 - - [24/Aug/2025 13:32:28] "PRI * HTTP/2.0" 505 -
+206.168.34.125 - - [24/Aug/2025 13:32:39] code 404, message File not found
+206.168.34.125 - - [24/Aug/2025 13:32:39] "GET /favicon.ico HTTP/1.1" 404 -
+206.168.34.125 - - [24/Aug/2025 13:32:39] code 505, message Invalid HTTP version (2.0)
+206.168.34.125 - - [24/Aug/2025 13:32:39] "PRI * HTTP/2.0" 505 -
+206.168.34.125 - - [24/Aug/2025 13:32:49] code 400, message Bad request version ('À\\x14À')
+206.168.34.125 - - [24/Aug/2025 13:32:49] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03X·4yh¶¦\x89ï\x0d§é)é\x06\x8f+\x81hË«å\x93\x91ý=\x0eM\x12l¦8 w\x91oD"\x91SL\x06¼\x90\x07÷\x13/i\x09T\x90É\x04î²\x83\x15sK9\x12»|0\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+206.168.34.125 - - [24/Aug/2025 13:32:50] code 404, message File not found
+206.168.34.125 - - [24/Aug/2025 13:32:50] "GET /security.txt HTTP/1.1" 404 -
+87.121.84.191 - - [24/Aug/2025 13:58:44] "GET / HTTP/1.1" 200 -
+91.224.92.17 - - [24/Aug/2025 14:23:28] "GET / HTTP/1.1" 200 -
+78.128.114.98 - - [24/Aug/2025 14:29:54] "GET / HTTP/1.0" 200 -
+14.215.163.132 - - [24/Aug/2025 14:32:24] "GET / HTTP/1.1" 200 -
+87.121.84.191 - - [24/Aug/2025 14:38:32] "GET / HTTP/1.1" 200 -
+204.76.203.219 - - [24/Aug/2025 14:40:13] "GET / HTTP/1.1" 200 -
+91.224.92.14 - - [24/Aug/2025 14:48:59] "GET / HTTP/1.1" 200 -
+45.135.193.253 - - [24/Aug/2025 14:56:29] "GET / HTTP/1.1" 200 -
+170.106.165.76 - - [24/Aug/2025 14:56:39] "GET / HTTP/1.1" 200 -
+93.174.93.12 - - [24/Aug/2025 14:59:08] code 400, message Bad request version ("¯nãY»bhlÿ(=':©\\x82ÙoÈ¢×\\x93\\x98´ï\\x80å¹\\x90\\x00(À")
+93.174.93.12 - - [24/Aug/2025 14:59:08] "\x16\x03\x02\x01o\x01\x00\x01k\x03\x02RHÅ\x1a#÷:Nßâ´\x82/ÿ\x09T\x9f§Äy°hÆ\x13\x8c¤\x1c="á\x1a\x98 \x84´,\x85¯nãY»bhlÿ(=':©\x82ÙoÈ¢×\x93\x98´ï\x80å¹\x90\x00(À" 400 -
+91.224.92.17 - - [24/Aug/2025 15:18:22] "GET / HTTP/1.1" 200 -
+196.251.81.194 - - [24/Aug/2025 15:19:05] code 404, message File not found
+196.251.81.194 - - [24/Aug/2025 15:19:05] "GET /.env HTTP/1.1" 404 -
+196.251.114.43 - - [24/Aug/2025 15:23:32] "GET /.git/refs/ HTTP/1.1" 200 -
+20.64.97.136 - - [24/Aug/2025 15:23:35] code 404, message File not found
+20.64.97.136 - - [24/Aug/2025 15:23:35] "GET /ReportServer HTTP/1.1" 404 -
+91.224.92.17 - - [24/Aug/2025 15:38:50] "GET / HTTP/1.1" 200 -
+93.174.93.12 - - [24/Aug/2025 15:48:51] "GET / HTTP/1.0" 200 -
+185.177.72.236 - - [24/Aug/2025 15:57:13] "GET /.git HTTP/1.1" 301 -
+185.177.72.236 - - [24/Aug/2025 15:57:13] "GET /.git/HEAD HTTP/1.1" 200 -
+185.177.72.236 - - [24/Aug/2025 15:57:15] "GET /.git/HEAD HTTP/1.1" 200 -
+185.177.72.236 - - [24/Aug/2025 15:57:15] "GET /.git/config HTTP/1.1" 200 -
+185.177.72.236 - - [24/Aug/2025 15:57:17] "GET /.git/HEAD HTTP/1.1" 200 -
+185.177.72.236 - - [24/Aug/2025 15:57:17] code 404, message File not found
+185.177.72.236 - - [24/Aug/2025 15:57:17] "GET /.git/packed-refs HTTP/1.1" 404 -
+185.177.72.236 - - [24/Aug/2025 15:57:18] code 404, message File not found
+185.177.72.236 - - [24/Aug/2025 15:57:18] "GET /.git/refs/heads/main HTTP/1.1" 404 -
+185.177.72.236 - - [24/Aug/2025 15:57:18] "GET /.git/config HTTP/1.1" 200 -
+185.177.72.236 - - [24/Aug/2025 15:57:19] "GET /.git/HEAD HTTP/1.1" 200 -
+185.177.72.236 - - [24/Aug/2025 15:57:19] code 404, message File not found
+185.177.72.236 - - [24/Aug/2025 15:57:19] "GET /.git/logs/refs/heads/master HTTP/1.1" 404 -
+185.177.72.236 - - [24/Aug/2025 15:57:21] code 404, message File not found
+185.177.72.236 - - [24/Aug/2025 15:57:21] "GET /.gitignore HTTP/1.1" 404 -
+185.177.72.236 - - [24/Aug/2025 15:57:21] code 404, message File not found
+185.177.72.236 - - [24/Aug/2025 15:57:21] "GET /.git/refs/heads/master HTTP/1.1" 404 -
+185.177.72.236 - - [24/Aug/2025 15:57:25] code 404, message File not found
+185.177.72.236 - - [24/Aug/2025 15:57:25] "GET /.env HTTP/1.1" 404 -
+185.177.72.236 - - [24/Aug/2025 15:57:29] code 404, message File not found
+185.177.72.236 - - [24/Aug/2025 15:57:29] "GET /.local HTTP/1.1" 404 -
+91.224.92.14 - - [24/Aug/2025 15:57:49] "GET / HTTP/1.1" 200 -
+24.17.111.73 - - [24/Aug/2025 16:02:27] "GET / HTTP/1.1" 304 -
+73.250.15.247 - - [24/Aug/2025 16:10:53] "GET / HTTP/1.1" 200 -
+97.156.101.153 - - [24/Aug/2025 16:10:53] "GET / HTTP/1.1" 200 -
+73.250.15.247 - - [24/Aug/2025 16:10:54] "GET /elmo.gif HTTP/1.1" 200 -
+97.156.101.153 - - [24/Aug/2025 16:10:54] "GET / HTTP/1.1" 200 -
+73.250.15.247 - - [24/Aug/2025 16:10:54] "GET /tato.jpeg HTTP/1.1" 200 -
+97.156.101.153 - - [24/Aug/2025 16:10:54] "GET /elmo.gif HTTP/1.1" 200 -
+97.156.101.153 - - [24/Aug/2025 16:10:55] "GET /tato.jpeg HTTP/1.1" 200 -
+97.156.101.153 - - [24/Aug/2025 16:11:41] "GET /tato_history.html HTTP/1.1" 200 -
+97.156.101.153 - - [24/Aug/2025 16:11:41] code 404, message File not found
+97.156.101.153 - - [24/Aug/2025 16:11:41] "GET /favicon.ico HTTP/1.1" 404 -
+73.250.15.247 - - [24/Aug/2025 16:12:28] code 404, message File not found
+73.250.15.247 - - [24/Aug/2025 16:12:28] "GET /tato_history.com HTTP/1.1" 404 -
+73.250.15.247 - - [24/Aug/2025 16:12:28] code 404, message File not found
+73.250.15.247 - - [24/Aug/2025 16:12:28] "GET /favicon.ico HTTP/1.1" 404 -
+73.250.15.247 - - [24/Aug/2025 16:12:34] code 404, message File not found
+73.250.15.247 - - [24/Aug/2025 16:12:34] "GET /tatohistory.com HTTP/1.1" 404 -
+73.250.15.247 - - [24/Aug/2025 16:12:43] code 404, message File not found
+73.250.15.247 - - [24/Aug/2025 16:12:43] "GET /tatohistory.html HTTP/1.1" 404 -
+196.251.84.253 - - [24/Aug/2025 16:12:43] "GET / HTTP/1.0" 200 -
+73.250.15.247 - - [24/Aug/2025 16:12:47] "GET /tato_history.html HTTP/1.1" 200 -
+103.173.195.216 - - [24/Aug/2025 16:31:17] "GET / HTTP/1.1" 200 -
+103.173.195.216 - - [24/Aug/2025 16:31:18] "GET /elmo.gif HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('103.173.195.216', 45938)
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/socketserver.py", line 317, in _handle_request_noblock
+    self.process_request(request, client_address)
+  File "/usr/lib/python3.11/socketserver.py", line 348, in process_request
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.11/socketserver.py", line 361, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.11/http/server.py", line 667, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.11/socketserver.py", line 755, in __init__
+    self.handle()
+  File "/usr/lib/python3.11/http/server.py", line 432, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.11/http/server.py", line 420, in handle_one_request
+    method()
+  File "/usr/lib/python3.11/http/server.py", line 674, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.11/http/server.py", line 873, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.11/shutil.py", line 200, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.11/socketserver.py", line 834, in write
+    self._sock.sendall(b)
+BrokenPipeError: [Errno 32] Broken pipe
+----------------------------------------
+103.173.195.216 - - [24/Aug/2025 16:32:41] "GET / HTTP/1.1" 200 -
+103.173.195.216 - - [24/Aug/2025 16:32:42] "GET /elmo.gif HTTP/1.1" 200 -
+103.173.195.216 - - [24/Aug/2025 16:32:44] "GET /tato.jpeg HTTP/1.1" 200 -
+103.173.195.216 - - [24/Aug/2025 16:34:48] code 404, message File not found
+103.173.195.216 - - [24/Aug/2025 16:34:48] "GET /favicon.ico HTTP/1.1" 404 -
+93.254.182.3 - - [24/Aug/2025 16:36:27] "GET / HTTP/1.1" 200 -
+93.254.182.3 - - [24/Aug/2025 16:36:27] "GET /elmo.gif HTTP/1.1" 200 -
+35.227.62.178 - - [24/Aug/2025 16:36:28] "GET / HTTP/1.1" 200 -
+93.254.182.3 - - [24/Aug/2025 16:36:29] "GET /tato.jpeg HTTP/1.1" 200 -
+103.173.195.216 - - [24/Aug/2025 16:39:42] "GET /tato_history.html HTTP/1.1" 200 -
