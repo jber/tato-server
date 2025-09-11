@@ -5,8 +5,6 @@ import os
 
 # Set the port and directory
 PORT = 8000
-# Change to the directory where this script is located
-os.chdir('/home/etreit/tato-server')
 
 # Use SimpleHTTPRequestHandler to serve files from current directory
 Handler = http.server.SimpleHTTPRequestHandler
