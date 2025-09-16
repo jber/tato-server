@@ -3,6 +3,7 @@ import http.server
 import socketserver
 import os
 from datetime import datetime
+import socket
 
 class TatoLogger(http.server.SimpleHTTPRequestHandler):
     def log_message(self, format, *args):
@@ -32,8 +33,12 @@ class TatoLogger(http.server.SimpleHTTPRequestHandler):
 # Set the port and directory
 PORT = 8000
 
-with socketserver.TCPServer(("", PORT), TatoLogger) as httpd:
+server = socketserver.TCPServer(("", PORT), TatoLogger)
+
+server.socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+
+with server:
     print(f"Tato server running at port {PORT}")
     print(f"Serving files from: {os.getcwd()}")
     print(f"Visit: http://localhost:{PORT}")
-    httpd.serve_forever()
+    server.serve_forever()
