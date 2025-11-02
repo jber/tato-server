@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  font-weight: 1000;
+}
+
+img{
+  border: 5px solid;
+  border-radius: 2px;
+}
+
+.prettylink{
+  background-color: wheat;
+  color: brown;
+  padding: 10px 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: x-large;
+  text-decoration:none;
+}
+
+.prettylink:hover{
+  background-color: brown;
+  color: wheat;
+  transform: scale(1.05);
+}
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
