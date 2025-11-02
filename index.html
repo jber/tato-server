@@ -5,6 +5,7 @@
         <meta charset="UTF-8">
         <title>/gngb_uvfgbel.ugzy</title>
         <link rel="icon" href="tato.jpeg">
+        <script src="script.js" defer></script>
     </head>
     <body>
         <h1 class="tato-title">Welcome To Tato Cult</h1>
@@ -17,29 +18,6 @@
         <div align="center"><br><br>
             <a href="community/index.html" class="prettylink">Tato Community Submissions</a>
         </div>
-        <script>
-             const secret = document.getElementById('secret');
-             secret.addEventListener('mouseover', () => { secret.textContent = 'check the source';});
-             secret.addEventListener('mouseout', () => { secret.textContent = 'purpx gur fbhepr';});
-            function randomGifGenerator(){
-                const gifs= [
-                "gifs/elmo.gif",
-                "gifs/elmotato.gif",
-                "gifs/tatointensify.gif",
-                "gifs/potatointensify.gif",
-                "gifs/tatowiggle.gif",
-                "gifs/elmobob.gif",
-                "gifs/fries.gif",
-                "gifs/friesagain.gif",
-                "gifs/elmodance.gif"
-
-            ];
-            const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
-            document.getElementById("randomGif").src = randomGif;
-            }
-            randomGifGenerator();
-            setInterval(randomGifGenerator, 3000);
-        </script>
     </body>
 </html>
 
