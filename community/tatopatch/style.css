@@ -1,9 +1,9 @@
 /* Fanfic Css */
 
 .fanficbody {
- background: #E2A16F; 
- background-image:url(images/asset/woodbg.jpg); 
- background-repeat: repeat; 
+ background: #E2A16F;
+ background-image:url(images/common/woodbg.jpg);
+ background-repeat: repeat;
  background-size: 200px
 }
 
@@ -99,9 +99,8 @@ summary::marker {
 
 /*Advice column css*/
 .advicebody {
- background: #E2A16F; 
- background-image:url(images/asset/paperbg.jpg); 
- background-repeat: repeat; 
+ background: #E2A16F;
+ background-image:url(images/common/paperbg.jpg);
+ background-repeat: repeat;
  background-size: 200px
 }
-

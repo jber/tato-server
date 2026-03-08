@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Baby's first fish faerie animation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      #fish {
+	transform: translate(300px, 20px);
+	offset-path: path("M20,70 C100,100 400,100 400,200 Q400,50 600,300 T1000,300 Z");
+	animation-name: flight;
+	animation-duration: 10s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+	animation-timing-function: ease-out;
+      }
+      @keyframes flight {
+	100% { offset-distance: 100%; }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="fish">
+      <img src="./images/fishfairy.png">
+    </div>
+  </body>
+</html>

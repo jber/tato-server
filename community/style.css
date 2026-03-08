@@ -1,17 +1,17 @@
 
 body {
-  background-image: url('patch/images/asset/bg.png');
-  background-size: cover;      
+  background-image: url('tatopatch/images/common/bg.png');
+  background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed; 
+  background-attachment: fixed;
   background-position: center;
 }
 
 h1 {
   text-align: center;
   font-weight: 1000;
-  color: lightgreen;  
-  
+  color: lightgreen;
+
 }
 
 h2 {
@@ -20,7 +20,7 @@ h2 {
 }
 
 .nav a{
-   color: wheat; 
+   color: wheat;
 }
 
 .rules {
@@ -37,7 +37,7 @@ h2 {
   max-width: 400px;
   margin: 0 auto;
   padding-left: 20px;
-  text-align: left; 
+  text-align: left;
 }
 
 .secret{
