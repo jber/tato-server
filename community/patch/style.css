@@ -32,7 +32,7 @@
 }
 
 h1{
-  padding-top: 30px;
+  padding-top: 20px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 40px;
   color: #3E3F29;
@@ -99,9 +99,95 @@ summary::marker {
 
 /*Advice column css*/
 .advicebody {
- background: #E2A16F; 
- background-image:url(images/asset/paperbg.jpg); 
- background-repeat: repeat; 
- background-size: 200px
+  background: #E2A16F; 
+  background-image: url(images/asset/paperbg.jpg); 
+  background-repeat: repeat; 
+  background-size: 400px;
 }
 
+.page_container {
+  max-width: 1000px;
+  margin: auto;
+  background-color: #eef6ea;
+  border-radius: 5px; 
+  box-shadow: 0 0 30px brown;
+  padding: 25px;
+}
+
+.card {
+  border: 1px solid brown;
+  border-radius: 6px;
+  width: 900px;
+  height: 1200px;
+  position: relative;
+  transform-style: preserve-3d;
+  transition: 4s ease;
+}
+
+.card_front,
+.card_back {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  border-radius: 6px;
+  backface-visibility: hidden;
+}
+
+.card_front {
+  background-color: #D9BFA2;
+}
+
+.card_back {
+  background-color: #F8E2D1;
+  transform: rotateY(180deg);
+}
+
+/*.card:hover {
+  transform: perspective(400px) rotateY(180deg);
+}*/
+
+.card.flipped {
+  transform: perspective(900px) rotateY(180deg);
+}
+
+.card_container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;  
+  align-items: center;  
+}
+
+.flip_btn {
+  background-color: wheat;
+  color: brown;
+  padding: 8px 16px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: small;
+  text-decoration:none;
+  display: block;
+  margin: 15px auto 0 auto;
+}
+
+.flip_btn:hover{
+  background-color: brown;
+  color: wheat;
+  transform: scale(1.05);
+}
+
+.advice_text{
+  font-family: "Reenie Beanie", cursive;
+  font-weight: bold;
+  font-size: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.response_text{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
